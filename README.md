@@ -29,7 +29,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [**NoGravè**](https://github.com/kamrol85/NoGrave) | Anti-gravity concept device for walkable air crossings. |
+| [**NoGravè**](https://github.com/kamrol85/nograve-concept) | Anti-gravity concept device for walkable air crossings. |
 | [**Obstacle Avoiding Car**](https://github.com/kamrol85/obstacle-avoiding-car) | Arduino-based robot that senses and avoids obstacles using ultrasonic sensor and servo motor. |
 
 ---
